@@ -25,6 +25,12 @@ To roll the dice:
 [Lita] User rolled 13 1 15 (29)
 ```
 
+## Configuration
+```
+config.handlers.dice.max_dice = 40 # Optional
+config.handlers.dice.max_sides = 5000 # Optional
+```
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
